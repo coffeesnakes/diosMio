@@ -1,9 +1,7 @@
 {
-  "name": "movie-browser",
-  "version": "1.1.0",
-  "description": "HRSF77/78 Review: Movie Browser",
-  "author": "Hack Reactor <curriculum.team@hackreactor.com>",
-  "license": "UNLICENSED",
+  "name": "react_starter",
+  "version": "1.0.0",
+  "description": "Basic react starter",
   "private": true,
   "scripts": {
     "start": "nodemon server/index.js",
